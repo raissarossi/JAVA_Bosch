@@ -62,14 +62,19 @@ public class Main {
         System.out.println(d);
         var e="Bosch";
         System.out.println(e);
-
-        double num1=11;
-        double num2=4;
+*/
+        double num1=10;
+        double num2=3;
         System.out.println(num1+num2);
         System.out.println(num1-num2);
         System.out.println(num1*num2);
         System.out.println(num1/num2);
         System.out.println(num1%num2);
-        */
+        System.out.println(num1%num2);
+        System.out.println(Math.pow(num1,num2));
+        double potencia;
+        potencia= Math.pow(10,3);
+        System.out.println(potencia);
+
     }
 }
