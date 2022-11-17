@@ -14,7 +14,7 @@ public class Main {
 //        System.out.println(meuArray);
 
 
-//FOR IT
+//FOR EACH
 //        double[] notas = {5.0, 6.0, 7.0, 8.0, 9.0};
 //        for (double nota:notas)
 //        {
